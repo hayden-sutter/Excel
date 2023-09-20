@@ -1,7 +1,7 @@
 <h1>Excel</h1>
 
 <h2>Description</h2>
-This Excel files shows different functions that I understand how to use such as Lookups, Pivot Tables and data visulization charts.
+This Excel files shows different functions that I understand how to use such as Lookups, Pivot Tables with Slicers and data visulization charts.
 <br />
 
 <h2>Environments Used </h2>
